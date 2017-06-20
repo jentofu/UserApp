@@ -1,0 +1,17 @@
+[33mcommit 43255c7926f24fb8b022663640d9f49230ec1108[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: chao_jen <ga2006085008@gamil.com>
+Date:   Tue Jun 20 05:45:18 2017 +0800
+
+    users page working without photo
+
+[33mcommit f8ba0a1484eea56e1ac03586661ec4e8f8ae2711[m
+Author: chao_jen <ga2006085008@gamil.com>
+Date:   Sun Jun 18 15:22:15 2017 +0800
+
+    admin master page setup
+
+[33mcommit b2cfdbca8c116a0bb1ecc318c38752743f24786c[m
+Author: chao_jen <ga2006085008@gamil.com>
+Date:   Fri Jun 16 23:32:33 2017 +0800
+
+    my first commit -admin view create
